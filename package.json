@@ -1,0 +1,17 @@
+{
+    "name": "twitter-link-bubbler",
+    "version": "0.0.1",
+    "description": "Tool to 'bubble up' top links from Twitter lists",
+    "homepage": "https://github.com/davidcalhoun/twitter-link-bubbler",
+    "main": "./index.js",
+    "author": "David Calhoun <david.b.calhoun@gmail.com>",
+    "repository": "git://github.com/davidcalhoun/twitter-link-bubbler",
+    "engines": {"node":">=0.10.22"},
+    "scripts": {
+        "test": "node test/index.js"
+    },
+    "dependencies": {
+        "ntwitter": ">=0.5.0",
+        "unshorten": ">=0.0.2"
+    }
+}
