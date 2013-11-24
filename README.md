@@ -1,4 +1,3 @@
-twitter-link-bubbler
+Twitter Link "Bubbler"
 ====================
-
-Tool to 
+Surface popular links on a particular Twitter list.
